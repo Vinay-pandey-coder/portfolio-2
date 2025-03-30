@@ -35,5 +35,5 @@ animate.reveal(".box-2", {dealy:400,origin: "right"});
 
 
 // contact
-animate.reveal(".contact h1", {dealy:400,origin: "top"});
-animate.reveal(".contact input", {dealy:400,origin: "bottom"});
+animate.reveal(".contact h1", {dealy:400});
+animate.reveal(".contact input",{origin:"right"})
